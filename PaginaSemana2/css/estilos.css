@@ -1,0 +1,56 @@
+body{
+	background-color: #fff2a0;
+}
+video{
+	width: 100%;
+}
+#contenedor{
+	width: 1200px;
+	margin: auto;
+	text-align: justify;
+}
+
+.imagen_100{
+	width: 100%;
+}
+
+.parrafos_1{
+	float:left;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.parrafos_3{
+	float:left;
+	width: 50%;
+}
+
+.filas{
+	float: left;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+#fila1_p1{
+	width: 30%;
+}
+
+#fila1_p2{
+	width: 70%;
+}
+
+#fila1_p2 p{
+	padding-left: 20px;
+}
+
+#fila3-p1 p{
+	padding-right: 20px;
+}
+
+#fila3-p2 p{
+	padding-left: 20px;
+}
+
+/*#fila3{
+	border: 1px solid red;
+}*/
